@@ -1,6 +1,6 @@
 # Word Counter
 
-Hi 👋
+Hi Hello 👋
 
 This is a word counter built with HTML, CSS and JavaScript. It simply counts the number of words you have in your text.
 
